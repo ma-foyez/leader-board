@@ -23,3 +23,9 @@ h6{
 .top-player img{
     width: 56px;
 }
+.course-time{
+    background-color: #FFE4E8;
+    color: #FF4A60;
+    padding: 6px 14px;
+    border-radius: 20px;
+}
