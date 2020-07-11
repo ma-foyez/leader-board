@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+}
+h2{
+    color: #562EFF;
+    cursor: pointer;
+}
+.navbar img {
+    width: 40px;
+}
+
+.navbar {
+    background: rgb(9, 9, 121);
+    background: linear-gradient(90deg, rgba(9, 9, 121, 1) 0%, rgba(86, 46, 255, 1) 67%, rgba(0, 212, 255, 1) 100%);
+}
+/*main body || top player*/
+.top-player img{
+    width: 56px;
+}
